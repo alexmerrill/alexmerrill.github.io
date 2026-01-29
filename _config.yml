@@ -1,8 +1,8 @@
 # Site settings
 title: I like to do things!
-email: alex.merrill at wsu.edu
+email: alex.merrill@wsu.edu
 url: https://alexmerrill.github.io
-description: "Description"
+description: "Alex Merrill - Digital Scholarship and Library Technology at Washington State University"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -10,7 +10,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Footie
+footer: Alex Merrill
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
