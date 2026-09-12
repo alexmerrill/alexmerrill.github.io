@@ -2,7 +2,7 @@
 title: I like to do things!
 email: alex.merrill@wsu.edu
 url: https://alexmerrill.github.io
-description: "Alex Merrill - Digital Scholarship and Library Technology at Washington State University"
+description: "Alex Merrill - Associate Dean for Technology and Operations, Washington State University Libraries"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -24,6 +24,12 @@ social:
   #  url: http://bitbucket.org/jekyll
   - title: github
     url: https://github.com/alexmerrill
+  - title: external-link
+    url: https://orcid.org/0000-0003-2127-9795
+    label: orcid
+  - title: graduation-cap
+    url: https://scholar.google.com/citations?user=ePzeRo0AAAAJ&hl=en
+    label: google scholar
 
 # Build settings
 markdown: kramdown
