@@ -30,6 +30,9 @@ social:
   - title: graduation-cap
     url: https://scholar.google.com/citations?user=ePzeRo0AAAAJ&hl=en
     label: google scholar
+  - title: external-link
+    url:  https://rex.libraries.wsu.edu/esploro/profile/alex_merrill/
+    label: wsu - research exchange
 
 # Build settings
 markdown: kramdown
